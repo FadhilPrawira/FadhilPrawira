@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👩‍💻 I’m currently working as Fullstack Developer
 -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
+<h1><!--img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/-->  Hi there, I'm Fadhil👋</h1>
 <p>Welcome to my page! </br> I'm Fadhil, a student from Diponegoro University <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Semarang, Indonesia.</b> Currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Semarang, Indonesia</b>. </p>
+
+## About me:
+
+- 🌱 I’m currently learning Laravel and Flutter
+- 👯 I’m looking to collaborate as Web and Mobile Developer
+- 📫 How to reach me: fadhilprawira87@gmail.com
+
 
 ### Github Statistic
 <p align="left">
@@ -32,5 +38,14 @@ Here are some ideas to get you started:
 
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/FadhilPrawira" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a href="https://www.linkedin.com/in/FadhilPrawira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <a href="https://github.com/FadhilPrawira" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/FadhilPrawira/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a>
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
